@@ -9,7 +9,7 @@ LibraryManagementConsoleApp is a simple library management system built using a 
 - Add, remove update User Profile
 
 ## Requirements
-- .NET SDK (version X.X or later)
+- .NET SDK (version 8.0 or later)
 - Windows, Linux, or macOS
 
 ## Installation
